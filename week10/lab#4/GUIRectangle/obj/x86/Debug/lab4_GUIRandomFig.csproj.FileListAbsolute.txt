@@ -1,0 +1,2 @@
+C:\PP\week10\lab#4-GUIRandomFigure\GUIRectangle\obj\x86\Debug\GUIRectangle.exe
+C:\PP\week10\lab#4-GUIRandomFigure\GUIRectangle\obj\x86\Debug\GUIRectangle.pdb

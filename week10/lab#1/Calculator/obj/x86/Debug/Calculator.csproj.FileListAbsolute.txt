@@ -1,0 +1,14 @@
+C:\Users\Ricky\AppData\Local\Temporary Projects\Calculator\bin\Debug\Calculator.exe
+C:\Users\Ricky\AppData\Local\Temporary Projects\Calculator\bin\Debug\Calculator.pdb
+C:\Users\Ricky\AppData\Local\Temporary Projects\Calculator\obj\x86\Debug\Calculator.Properties.Resources.resources
+C:\Users\Ricky\AppData\Local\Temporary Projects\Calculator\obj\x86\Debug\Calculator.csproj.GenerateResource.Cache
+C:\Users\Ricky\AppData\Local\Temporary Projects\Calculator\obj\x86\Debug\Calculator.exe
+C:\Users\Ricky\AppData\Local\Temporary Projects\Calculator\obj\x86\Debug\Calculator.pdb
+C:\Users\Ricky\AppData\Local\Temporary Projects\Calculator\obj\x86\Debug\Calculator.Calculator.resources
+C:\Users\Ricky\Documents\Visual Studio 2010\Projects\Calculator\Calculator\obj\x86\Debug\Calculator.exe
+C:\Users\Ricky\Documents\Visual Studio 2010\Projects\Calculator\Calculator\obj\x86\Debug\Calculator.pdb
+C:\Users\Ricky\Documents\Visual Studio 2010\Projects\Calculator\Calculator\bin\Debug\Calculator.exe
+C:\Users\Ricky\Documents\Visual Studio 2010\Projects\Calculator\Calculator\bin\Debug\Calculator.pdb
+C:\Users\Ricky\Documents\Visual Studio 2010\Projects\Calculator\Calculator\obj\x86\Debug\Calculator.Calculator.resources
+C:\Users\Ricky\Documents\Visual Studio 2010\Projects\Calculator\Calculator\obj\x86\Debug\Calculator.Properties.Resources.resources
+C:\Users\Ricky\Documents\Visual Studio 2010\Projects\Calculator\Calculator\obj\x86\Debug\Calculator.csproj.GenerateResource.Cache

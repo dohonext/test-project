@@ -1,0 +1,8 @@
+C:\Users\Ricky\Desktop\GUIRectangle\GUIRectangle\bin\Release\lab2-GUIRectangle(array).exe
+C:\Users\Ricky\Desktop\GUIRectangle\GUIRectangle\bin\Release\lab2-GUIRectangle(array).pdb
+C:\Users\Ricky\Desktop\GUIRectangle\GUIRectangle\obj\x86\Release\lab2-GUIRectangle(array).csprojResolveAssemblyReference.cache
+C:\Users\Ricky\Desktop\GUIRectangle\GUIRectangle\obj\x86\Release\GUIRectangle.Form1.resources
+C:\Users\Ricky\Desktop\GUIRectangle\GUIRectangle\obj\x86\Release\GUIRectangle.Properties.Resources.resources
+C:\Users\Ricky\Desktop\GUIRectangle\GUIRectangle\obj\x86\Release\lab2-GUIRectangle(array).csproj.GenerateResource.Cache
+C:\Users\Ricky\Desktop\GUIRectangle\GUIRectangle\obj\x86\Release\lab2-GUIRectangle(array).exe
+C:\Users\Ricky\Desktop\GUIRectangle\GUIRectangle\obj\x86\Release\lab2-GUIRectangle(array).pdb
