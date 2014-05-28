@@ -1,0 +1,4 @@
+C:\Users\Ricky\AppData\Local\Temporary Projects\Week11-lab1\bin\Debug\Week11-lab1.exe
+C:\Users\Ricky\AppData\Local\Temporary Projects\Week11-lab1\bin\Debug\Week11-lab1.pdb
+C:\Users\Ricky\AppData\Local\Temporary Projects\Week11-lab1\obj\x86\Debug\Week11-lab1.exe
+C:\Users\Ricky\AppData\Local\Temporary Projects\Week11-lab1\obj\x86\Debug\Week11-lab1.pdb

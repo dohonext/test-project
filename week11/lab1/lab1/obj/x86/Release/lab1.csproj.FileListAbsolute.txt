@@ -1,0 +1,4 @@
+C:\PP\week11\lab1\lab1\bin\Release\lab1.exe
+C:\PP\week11\lab1\lab1\bin\Release\lab1.pdb
+C:\PP\week11\lab1\lab1\obj\x86\Release\lab1.exe
+C:\PP\week11\lab1\lab1\obj\x86\Release\lab1.pdb
