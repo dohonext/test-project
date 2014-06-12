@@ -1,0 +1,5 @@
+/Users/Ricky/Programing/week6/lab#3/lab#3/obj/x86/Debug/.NETFramework,Version=v4.0.AssemblyAttribute.cs
+/Users/Ricky/Programing/week6/lab#3/lab#3/bin/Debug/lab#3.exe.mdb
+/Users/Ricky/Programing/week6/lab#3/lab#3/bin/Debug/lab#3.exe
+/Users/Ricky/Programing/week6/lab#3/lab#3/obj/x86/Debug/lab#3.exe
+/Users/Ricky/Programing/week6/lab#3/lab#3/obj/x86/Debug/lab#3.exe.mdb

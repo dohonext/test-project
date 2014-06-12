@@ -1,0 +1,9 @@
+C:\Users\Ricky\Desktop\GUIRectangle\GUIRectangle\obj\x86\Debug\GUIRectangle.exe
+C:\Users\Ricky\Desktop\GUIRectangle\GUIRectangle\obj\x86\Debug\GUIRectangle.pdb
+C:\프연\week10\lab#3-GUIRectangle(arrayList)\GUIRectangle\obj\x86\Debug\GUIRectangle.exe
+C:\프연\week10\lab#3-GUIRectangle(arrayList)\GUIRectangle\obj\x86\Debug\GUIRectangle.pdb
+C:\프연\week10\lab#3-GUIRectangle(arrayList)\GUIRectangle\bin\Debug\GUIRectangle.exe
+C:\프연\week10\lab#3-GUIRectangle(arrayList)\GUIRectangle\bin\Debug\GUIRectangle.pdb
+C:\프연\week10\lab#3-GUIRectangle(arrayList)\GUIRectangle\obj\x86\Debug\GUIRectangle.Form1.resources
+C:\프연\week10\lab#3-GUIRectangle(arrayList)\GUIRectangle\obj\x86\Debug\GUIRectangle.Properties.Resources.resources
+C:\프연\week10\lab#3-GUIRectangle(arrayList)\GUIRectangle\obj\x86\Debug\lab3_GUIRectangle.csproj.GenerateResource.Cache

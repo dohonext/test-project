@@ -1,0 +1,7 @@
+C:\Users\Ricky\AppData\Local\Temporary Projects\Calculator\bin\Release\Calculator.exe
+C:\Users\Ricky\AppData\Local\Temporary Projects\Calculator\bin\Release\Calculator.pdb
+C:\Users\Ricky\AppData\Local\Temporary Projects\Calculator\obj\x86\Release\Calculator.Calculator.resources
+C:\Users\Ricky\AppData\Local\Temporary Projects\Calculator\obj\x86\Release\Calculator.Properties.Resources.resources
+C:\Users\Ricky\AppData\Local\Temporary Projects\Calculator\obj\x86\Release\Calculator.csproj.GenerateResource.Cache
+C:\Users\Ricky\AppData\Local\Temporary Projects\Calculator\obj\x86\Release\Calculator.exe
+C:\Users\Ricky\AppData\Local\Temporary Projects\Calculator\obj\x86\Release\Calculator.pdb

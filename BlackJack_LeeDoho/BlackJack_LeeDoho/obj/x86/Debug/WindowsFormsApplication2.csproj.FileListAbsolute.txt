@@ -1,0 +1,9 @@
+C:\Users\Ricky\AppData\Local\Temporary Projects\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+C:\Users\Ricky\AppData\Local\Temporary Projects\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+C:\Users\Ricky\AppData\Local\Temporary Projects\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.Form1.resources
+C:\Users\Ricky\AppData\Local\Temporary Projects\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.Properties.Resources.resources
+C:\Users\Ricky\AppData\Local\Temporary Projects\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.csproj.GenerateResource.Cache
+C:\Users\Ricky\AppData\Local\Temporary Projects\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.exe
+C:\Users\Ricky\AppData\Local\Temporary Projects\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.pdb
+C:\Users\Ricky\AppData\Local\Temporary Projects\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.Form2.resources
+C:\Users\Ricky\AppData\Local\Temporary Projects\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.HitOrStand.resources

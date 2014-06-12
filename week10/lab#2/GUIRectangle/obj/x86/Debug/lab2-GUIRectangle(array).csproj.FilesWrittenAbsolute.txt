@@ -1,0 +1,7 @@
+/Users/Ricky/Programing/week10/lab#2-GUIRectangle/GUIRectangle/obj/x86/Debug/.NETFramework,Version=v4.0,Profile=Client.AssemblyAttribute.cs
+/Users/Ricky/Programing/week10/lab#2-GUIRectangle/GUIRectangle/obj/x86/Debug/GUIRectangle.Form1.resources
+/Users/Ricky/Programing/week10/lab#2-GUIRectangle/GUIRectangle/obj/x86/Debug/GUIRectangle.Properties.Resources.resources
+/Users/Ricky/Programing/week10/lab#2-GUIRectangle/GUIRectangle/bin/Debug/lab2-GUIRectangle(array).exe.mdb
+/Users/Ricky/Programing/week10/lab#2-GUIRectangle/GUIRectangle/bin/Debug/lab2-GUIRectangle(array).exe
+/Users/Ricky/Programing/week10/lab#2-GUIRectangle/GUIRectangle/obj/x86/Debug/lab2-GUIRectangle(array).exe
+/Users/Ricky/Programing/week10/lab#2-GUIRectangle/GUIRectangle/obj/x86/Debug/lab2-GUIRectangle(array).exe.mdb
