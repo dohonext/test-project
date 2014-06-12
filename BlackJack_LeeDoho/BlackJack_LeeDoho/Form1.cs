@@ -264,7 +264,7 @@ namespace WindowsFormsApplication2
                 int PlayerAce = AceCheck(PlayerCard);
                 if (PlayerAce != 0) //플레이어가 Ace를 한장 이상 가지고 있고
                 {
-                    if (PlayerCardSum + 11 < 22)  // 그 에이스를 11로 써도 버스티드 되지 않으면 그 에이스를 11로 쓴다 (알아보기 쉽게 일부러 && 로 하지 않고 이중 if문 사용)
+					if (PlayerCardSum + 10 < 22)  // 그 에이스를 11로 써도 버스티드 되지 않으면 그 에이스를 11로 쓴다 (알아보기 쉽게 일부러 && 로 하지 않고 이중 if문 사용)
                     {
                         MessageBox.Show("One of your 'ACE' cards will be used as '11'");
                         PlayerCardSum += 10;
