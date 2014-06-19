@@ -9,37 +9,41 @@ using System.Windows.Forms;
 
 namespace WindowsFormsApplication2
 {
-    public partial class Form2 : Form
+    public partial class Betting : Form
     {
-        public int Betting
+        
+        public int Bet
         {
             get;
             set;
         }
 
-        public Form2()
+        public Betting()
         {
             InitializeComponent();
         }
 
         private void button1_Click(object sender, EventArgs e)
         {
-            this.Betting = 5;
+            this.Bet = 10;
             this.Close();
         }
 
         private void button2_Click(object sender, EventArgs e)
         {
-            this.Betting = 10;
+            this.Bet = 20;
             this.Close();
         }
 
         private void button3_Click(object sender, EventArgs e)
         {
-            this.Betting = 20;
+            this.Bet = 40;
             this.Close();
         }
 
+        private void Betting_Load(object sender, EventArgs e)
+        {
 
+        }
     }
 }

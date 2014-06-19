@@ -1,10 +1,11 @@
 C:\PP\BlackJack\BlackJack_LeeDoho\BlackJack_LeeDoho\bin\Debug\BlackJack_LeeDoho.exe
 C:\PP\BlackJack\BlackJack_LeeDoho\BlackJack_LeeDoho\bin\Debug\BlackJack_LeeDoho.pdb
 C:\PP\BlackJack\BlackJack_LeeDoho\BlackJack_LeeDoho\obj\x86\Debug\WindowsFormsApplication2.Form1.resources
-C:\PP\BlackJack\BlackJack_LeeDoho\BlackJack_LeeDoho\obj\x86\Debug\WindowsFormsApplication2.Form2.resources
 C:\PP\BlackJack\BlackJack_LeeDoho\BlackJack_LeeDoho\obj\x86\Debug\WindowsFormsApplication2.HitOrStand.resources
 C:\PP\BlackJack\BlackJack_LeeDoho\BlackJack_LeeDoho\obj\x86\Debug\WindowsFormsApplication2.Properties.Resources.resources
 C:\PP\BlackJack\BlackJack_LeeDoho\BlackJack_LeeDoho\obj\x86\Debug\BlackJack_LeeDoho.csproj.GenerateResource.Cache
 C:\PP\BlackJack\BlackJack_LeeDoho\BlackJack_LeeDoho\obj\x86\Debug\BlackJack_LeeDoho.exe
 C:\PP\BlackJack\BlackJack_LeeDoho\BlackJack_LeeDoho\obj\x86\Debug\BlackJack_LeeDoho.pdb
 C:\PP\BlackJack\BlackJack_LeeDoho\BlackJack_LeeDoho\bin\Debug\BlackJack_LeeDoho.exe.config
+C:\PP\BlackJack\BlackJack_LeeDoho\BlackJack_LeeDoho\obj\x86\Debug\BlackJack_LeeDoho.csprojResolveAssemblyReference.cache
+C:\PP\BlackJack\BlackJack_LeeDoho\BlackJack_LeeDoho\obj\x86\Debug\WindowsFormsApplication2.Betting.resources
